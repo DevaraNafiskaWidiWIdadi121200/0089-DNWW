@@ -1,6 +1,12 @@
 G211190089 - Devara Nafiska Widi Widadi - USM Jaya
 
+<<<<<<< HEAD
 
 Fakultas Teknologi Informatika dan Komunikasi
 
 Kota Semarang, Jawa Tengah, Indonesia
+=======
+Universitas Semarang
+
+Jl. Soekarno-Hatta, Tlogosari Kulon
+>>>>>>> sub-0089-DNWW
